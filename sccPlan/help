@@ -1,0 +1,8 @@
+sccpass [Args...] Other stuff... 
+
+Usage:
+
+-n, --new: Create a new plan.
+-l, --list [Plan name...]: 
+-r, --remove [Plan name...]: Remove a plan.
+-h, --help: Display this help message.
